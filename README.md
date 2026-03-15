@@ -1,2 +1,2 @@
-# josephgaces.github.io
-A web portfolio
+# gacesjoseph.github.io
+My web portfolio
